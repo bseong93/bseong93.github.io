@@ -8,3 +8,5 @@
   # Test Title
   ##TEST
 </div>
+
+{% include _footer.html %}
