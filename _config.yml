@@ -1,6 +1,15 @@
 theme: jekyll-theme-cayman
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+
+url: https://bseong93.github.io
+# Google Search Console에서 사용하는 sitemap.xml 생성시
+# 이 url key값이 존재하지 않으면 sitemap.xml이
+# 정상적으로 생성되지 않는다.
+# 또한 disqus(댓글시스템)를 이용하기 위해서도 필요.
+# 자신의 github page url을 입력
+# ( https://your_github_id.github.io 형식 )
+
 baseurl: /
+
+# Website info
+title: IT Blog
+# 자신의 blog title.
