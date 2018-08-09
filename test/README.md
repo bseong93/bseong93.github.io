@@ -9,4 +9,4 @@
   ##TEST
 </div>
 
-{% include {{ site.baseurl }}/_footer.html %}
+{% include /_include/_footer.html %}
