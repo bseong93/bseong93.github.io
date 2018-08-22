@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"/>
 
-<div>
+<div class="test">
   test
 </div>
 
