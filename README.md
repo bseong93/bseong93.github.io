@@ -1,4 +1,4 @@
-<link href="./style.css" rel="stylesheet"/>
+<link href="./test/style.css" rel="stylesheet"/>
 
 <div class="test">
   test
